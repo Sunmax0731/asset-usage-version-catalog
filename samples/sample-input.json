@@ -1,0 +1,20 @@
+{
+  "product": {
+    "repository": "asset-usage-version-catalog",
+    "title": "素材カタログ・使用箇所・版管理"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "素材カタログ・使用箇所・版管理 正常ケース",
+      "source": "source-ok",
+      "assetPath": "assetPath-ok",
+      "version": "version-ok",
+      "usedBy": "usedBy-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "thumbnail": "ready"
+    }
+  ]
+}
