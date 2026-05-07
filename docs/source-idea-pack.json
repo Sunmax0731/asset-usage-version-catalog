@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\AssetPipeline\\created_idea_008_asset-usage-version-catalog",
+  "zip": "D:\\AI\\AssetPipeline\\created_idea_008_asset-usage-version-catalog\\idea_008_asset-usage-version-catalog.zip",
+  "rank": 31,
+  "domain": "AssetPipeline",
+  "ideaNo": 8,
+  "title": "素材カタログ・使用箇所・版管理",
+  "overview": "素材メタデータ、サムネイル、ターンテーブル、使用箇所、依存関係、大容量素材の版管理を1つの棚で扱う。",
+  "problem": "素材が増えると、使用箇所、最新版、再利用候補が分かりにくい。",
+  "differentiation": "見た目、メタデータ、使用先、版を同じカードにまとめる。"
+}
