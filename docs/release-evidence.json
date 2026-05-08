@@ -1,0 +1,32 @@
+{
+  "product": "asset-usage-version-catalog",
+  "repository": "Sunmax0731/asset-usage-version-catalog",
+  "githubUrl": "https://github.com/Sunmax0731/asset-usage-version-catalog",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/asset-usage-version-catalog/releases/tag/v0.1.0-alpha.1",
+  "prerelease": true,
+  "latest": false,
+  "assetCount": 3,
+  "assets": [
+    "asset-usage-version-catalog-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "cli-release-tool",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/asset-usage-version-catalog",
+    "url": "https://github.com/Sunmax0731/asset-usage-version-catalog",
+    "releaseUrl": "https://github.com/Sunmax0731/asset-usage-version-catalog/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
+}

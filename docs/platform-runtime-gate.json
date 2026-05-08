@@ -1,0 +1,11 @@
+{
+  "product": "asset-usage-version-catalog",
+  "title": "素材カタログ・使用箇所・版管理",
+  "domain": "AssetPipeline",
+  "ideaNo": 8,
+  "platformType": "cli-release-tool",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
